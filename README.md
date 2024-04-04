@@ -1,11 +1,11 @@
-# GAMON SIMPLE AI BOT DISCORD.JS
+# CODEBOX SIMPLE AI BOT DISCORD.JS V14
 - code by: gilga
 - using API [GEMINI-AI](https://aistudio.google.com/app/apikey)
 
 ### npm list modules
 ```sh
-usr@gilga:~/gamon-ai$ npm list 
-gamon-ai@1.0.0 /gamon-ai
+usr@gilga:~/codebox-ai$ npm list 
+codebox-ai@1.0.0 /codebox-ai
 ├── @discordjs/rest@0.4.1
 ├── @google-ai/generativelanguage@2.1.0
 ├── @google/generative-ai@0.2.1
